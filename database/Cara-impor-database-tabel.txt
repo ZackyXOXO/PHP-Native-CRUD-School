@@ -1,0 +1,10 @@
+langkah :
+1. buka phpmyadmin
+2. buat database dengan nama ulanganpts/(nama bebas)
+3. Pilih database dan pilih menu impor di bar atas
+4. klik pilih file pada myadmin
+5. Jika file sudah dipilih klik impor/submit
+6. jika muncul centang artinya impor berhasil
+7. database dan tabel siap digunakan
+8. sesuaikan dengan file php kalian masing-masing
+9.TERIMA KASIH
